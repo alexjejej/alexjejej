@@ -1,5 +1,15 @@
 # 💫 About Me:
-Soy Tecnólogo en Desarrollo de Software y estudiante de Ingeniería en Nanotecnología con experiencia en proyectos que van desde el desarrollo de software hasta la nanotecnología. Certificado en inglés B2, destaco por mi capacidad para trabajar en entornos multidisciplinarios y multiculturales.<br><br>Proyectos Destacados:<br>Titulo: Sistema para la gestión y control de un restaurante mediante una aplicación móvil<br>Tecnologías: Java, XML y Firebase<br>Descripción: Proyecto de titulación. Se digitalizó un negocio en dónde se aplicó una automatización de pedidos, comunicación con meseros, tiempos de espera, control de inventario y comparación  ganancias/ventas.<br><br>Titulo: Página web para la administración del inventario del laboratorio de CUTONALÁ.<br>Tecnologías: Metodología MVC junto con un uso de servlets, java, HTML5, CSS y MariaDB.<br>Descripción: Proyecto final de Programación Web. Sirve para control de inventario y registro de prácticas de laboratorio. <br><br>Titulo: Aplicación móvil deportiva <br>Tecnologías: Kotlin, API REST, Firebase, MySQL<br>Descripción: Desarrollé una aplicación móvil diseñada para gestionar el progreso deportivo de los estudiantes. Esta aplicación incluye un sistema de logros y clasificaciones basado en la actividad física, destacando un contador de pasos integrado que monitorea el movimiento del usuario en tiempo real. Además, consume una API REST para sincronizar y gestionar los datos de manera eficiente.<br>
+Soy Tecnólogo en Desarrollo de Software y estudiante de Ingeniería en Nanotecnología con experiencia en proyectos que van desde el desarrollo de software hasta la nanotecnología. Certificado en inglés B2, destaco por mi capacidad para trabajar en entornos multidisciplinarios y multiculturales.<br><br>Proyectos Destacados:
+<br>Titulo: Sistema para la gestión y control de un restaurante mediante una aplicación móvil (FastCoffee).
+<br>Tecnologías: Java, XML y Firebase
+<br>Descripción: Proyecto de titulación. Se digitalizó un negocio en dónde se aplicó una automatización de pedidos, comunicación con meseros, tiempos de espera, control de inventario y comparación  ganancias/ventas.<br><br>Titulo: Página web para la administración del inventario del laboratorio de CUTONALÁ.
+
+<br>Tecnologías: Metodología MVC junto con un uso de servlets, java, HTML5, CSS y MariaDB (NanoInventario).
+<br>Descripción: Proyecto final de Programación Web. Sirve para control de inventario y registro de prácticas de laboratorio. 
+
+<br><br>Titulo: Aplicación móvil deportiva (Cut-Running).
+<br>Tecnologías: Kotlin, API REST, Firebase, MySQL
+<br>Descripción: Desarrollé una aplicación móvil diseñada para gestionar el progreso deportivo de los estudiantes. Esta aplicación incluye un sistema de logros y clasificaciones basado en la actividad física, destacando un contador de pasos integrado que monitorea el movimiento del usuario en tiempo real. Además, consume una API REST para sincronizar y gestionar los datos de manera eficiente.<br>
 
 
 ## 🌐 Socials:
